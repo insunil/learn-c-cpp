@@ -1,1 +1,3 @@
-# testing-git
+# Learning c/c++
+
+Learning c & c++
